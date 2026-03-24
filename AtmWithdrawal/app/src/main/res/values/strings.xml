@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AtmWithdrawal</string>
+    <string name="atm_withdrawal_system">ATM Withdrawal System</string>
+    <string name="enter_withdrawal_amount">Enter Withdrawal Amount</string>
+    <string name="check_withdrawal">check Withdrawal</string>
+    <string name="display_the_result_message">Display the result message</string>
+</resources>
